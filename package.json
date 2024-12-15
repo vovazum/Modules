@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Iusar/ajs_2.git"
+    "url": "git+https://github.com/vovazum/Modules.git"
   },
   "author": "Iusar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Iusar/ajs_2/issues"
+    "url": "https://github.com/vovazum/Modules"
   },
-  "homepage": "https://github.com/Iusar/ajs_2#readme",
+  "homepage": "https://github.com/vovazum/Modules",
   "devDependencies": {
     "css-loader": "^6.8.1",
     "html-webpack-plugin": "^5.5.0",
@@ -26,5 +26,8 @@
     "webpack": "^5.78.0",
     "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^4.15.1"
-  }
+  },
+  "keywords": [
+    "homework"
+  ]
 }
